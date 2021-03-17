@@ -5,3 +5,4 @@ Trivia Questions:
 2. When was Apple Inc. founded?
 
 3. Which is the latest Android version?
+   -> Android 11
